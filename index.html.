@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Project</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to Awesome Project!</h1>
+        <p>This is my awesome project where I will be working on making a landing page, incorporating AI features, adding a chatbot, and some interactive elements.</p>
+    </header>
+
+    <section>
+        <h2>About the Project</h2>
+        <p>This project will include cutting-edge technology and features to make a unique experience. Stay tuned for updates!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
